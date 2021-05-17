@@ -116,3 +116,5 @@ sp	30,20,90 20 0,255,255
 
 pl	0,-50,0 0,1,0 124,124,140
 ```
+## Obj to scene generator
+You can also convert any obj file into a compatible miniRT scene using this amazing tool by matboivin ✨: https://github.com/matboivin/miniRT-mesh-converter
