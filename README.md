@@ -1,6 +1,8 @@
 # miniRT
 A raytracer made in C
 
+![charizard](https://user-images.githubusercontent.com/74905890/118527340-7b0ae180-b741-11eb-8ba7-50470433b495.jpg)
+
 ![0](https://user-images.githubusercontent.com/74905890/118520563-77c02780-b73a-11eb-831a-4f68b0903fad.jpg)
 
 
