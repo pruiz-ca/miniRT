@@ -1,6 +1,9 @@
 # miniRT
 A raytracer made in C
 
+![0](https://user-images.githubusercontent.com/74905890/118520563-77c02780-b73a-11eb-831a-4f68b0903fad.jpg)
+
+
 ## Features
 - Multithreading
 - Variable resolution
