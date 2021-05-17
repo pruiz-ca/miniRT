@@ -1,4 +1,4 @@
-# miniRT
+# 🎥 miniRT
 A raytracer made in C
 
 ![charizard](https://user-images.githubusercontent.com/74905890/118527868-fe2c3780-b741-11eb-859e-cf13dcd80358.jpg)
