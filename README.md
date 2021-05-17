@@ -27,7 +27,7 @@ A raytracer made in C
 - Elements defined by a capital letter can only be declared once in the scene
 - Each element first's information is the type identifier followed by all specific information for each object in the following strict order:
 
--- Resolution:
+`-- Resolution:
 	R 1920 1080
 	id : R
 	x render size
@@ -91,7 +91,7 @@ A raytracer made in C
 	x,y,z coordinates of the second point
 	x,y,z coordinates of the third point
 	R,G,B colors in range [0-255]
-
+`
 ## Scene file example
 R	1000 1000
 
