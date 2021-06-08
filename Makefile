@@ -47,7 +47,9 @@ all:		$(NAME)
 $(NAME):	$(OBJS) $()
 		@make -C lib/libft
 		@make -C lib/minilibx > /dev/null 2>&1
-		@$(CC) $(EXTRA) $(FLAGS) $(SRCS) $(HEADER) -L lib/libft -lft -L lib/minilibx -lmlx -lpthread -framework OpenGL -framework AppKit -o $(NAME)
+		@$(CC) $(EXTRA) $(FLAGS) $(SRCS) $(HEADER) -L lib/libft -lft \
+			-L lib/minilibx -lmlx -lpthread -framework OpenGL \
+			-framework AppKit -o $(NAME)
 
 $O%.o: 		$S%.c
 		@[ -d $(O) ] || mkdir -p $(O)
