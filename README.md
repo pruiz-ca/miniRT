@@ -21,12 +21,12 @@ A raytracer made in C
 - Scene map error handling
 
 ## How to use
-1. Run make in the root directory
-2. Write your scene.rt file or use any of the already available test scenes in /scenes
-3. Run ./miniRT yourscene.rt
+1. Run make in the root directory.
+2. Write your scene.rt file or use any of the already available test scenes in /scenes.
+3. Run ./miniRT yourscene.rt.
 
 ## Writing a scene description file
-- It can have any name but it must end in ".rt"
+- It can have any name but it must end in ".rt".
 - Each element can be separated by one or more spaces/tabs
 - Each element can be separated by one or more linebreaks
 - Elements defined by a capital letter can only be declared once in the scene
